@@ -89,8 +89,6 @@ Keterangan simbol:
 - diamond putih = aggregation
 - diamond hitam = composition
 
-Constructor tidak ditampilkan pada diagram. Multiplicity juga tidak ditampilkan.
-
 Nama method pada diagram menggunakan gaya penulisan C++/Java. Pada Python digunakan `snake_case`, misalnya `getName()` menjadi `get_name()` dan `displayInfo()` menjadi `display_info()`.
 
 ### 3.1 Hierarchical Inheritance
