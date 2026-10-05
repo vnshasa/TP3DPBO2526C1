@@ -2,7 +2,9 @@
 
 ## Janji
 
-Saya **Vanisha Septiani Auliaputri** dengan NIM **2510735** mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek dengan sungguh-sungguh dan tidak melakukan kecurangan seperti yang telah ditentukan.
+Saya **Vanisha Septiani Auliaputri** dengan NIM **2510735** mengerjakan Tugas Praktikum 3
+dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ---
 
@@ -85,8 +87,6 @@ Keterangan simbol:
 - panah segitiga kosong = inheritance
 - diamond putih = aggregation
 - diamond hitam = composition
-
-Constructor tidak ditampilkan pada diagram. Multiplicity juga tidak ditampilkan.
 
 Nama method pada diagram menggunakan gaya penulisan C++.
 
